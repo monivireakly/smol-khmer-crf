@@ -1,4 +1,4 @@
-# Khmer Syllable Analyzer
+### Khmer Syllable Breaker
 
 A Python tool for analyzing and generating Khmer syllable patterns using Conditional Random Fields (CRF).
 
