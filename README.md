@@ -43,6 +43,4 @@ The vocabulary file (`processed_vocab.txt`) should contain Khmer words.
 
 - Syllable pattern classification
 - Word analysis and segmentation
-- Random word generation
-- Dataset generation
 - Statistics reporting
