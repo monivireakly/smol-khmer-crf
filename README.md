@@ -37,11 +37,7 @@ dataset = analyzer.generate_dataset(num_words=1000)
 
 ## Input File Format
 
-The vocabulary file (`processed_vocab.txt`) should contain Khmer words with syllable boundaries marked by `|` character:
-
-ក្រ|ក
-ស្ត្រ|ក
-គ្វ|ក
+The vocabulary file (`processed_vocab.txt`) should contain Khmer words.
 
 ## Features
 
