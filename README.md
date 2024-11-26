@@ -8,17 +8,6 @@ This tool analyzes Khmer text by:
 - Classifying syllables into 6 distinct patterns (CV, CVC, CCV, CCVC, CCCV, CCCVC)
 - Processing pre-segmented vocabulary files
 - Generating new words based on learned syllable patterns
-
-## Syllable Patterns
-
-The analyzer recognizes these patterns:
-- `CV`: Single consonant + vowel (ក, ខ, គ)
-- `CVC`: Single consonant + vowel + consonant (កក, ខក, គក) 
-- `CCV`: Two consonants + vowel (ក្រ, ខ្យ, គ្វ)
-- `CCVC`: Two consonants + vowel + consonant (ក្រក, ខ្យក, គ្វក)
-- `CCCV`: Three consonants + vowel (ស្ត្រ, ស្ក្រ)
-- `CCCVC`: Three consonants + vowel + consonant (ស្ត្រក, ស្ក្រក)
-
 ## Usage
 
 ```python
